@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statics on Vinculeiro</title>
+    <link>/static/</link>
+    <description>Recent content in Statics on Vinculeiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>spa</language>
+    <copyright>Creative Commons</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 11:12:00 +0200</lastBuildDate>
+    
+	<atom:link href="/static/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Información útil</title>
+      <link>/static/imprint/</link>
+      <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
+      
+      <guid>/static/imprint/</guid>
+      <description>Referentes  O vademécum, R-bloggers. Cada actualización do que se coce en R Weekly. KD nuggets, trata temas relacionados con machine learning e Big Data, principalmente.</description>
+    </item>
+    
+  </channel>
+</rss>

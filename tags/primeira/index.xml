@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>primeira on Vinculeiro</title>
+    <link>/tags/primeira/</link>
+    <description>Recent content in primeira on Vinculeiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>spa</language>
+    <copyright>Creative Commons</copyright>
+    <lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/primeira/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Así comeza todo...</title>
+      <link>/blog/2019-09-19-xenese/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-09-19-xenese/</guid>
+      <description>Iniciarse neste mundo tan variado como é o #rstats ❤️ é unha aventura divertida e instruínte. O entorno que envolve á comunidade que existe arredor de R é moi ampla e activa.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+---
+title: "Así comeza todo..."
+author: ""
+date: 2019-09-18
+categories: ["rstats"]
+image: "/images/blog/xenese.png"
+tags: ["rstats", "primeira"] 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE,message=F,echo=F)
+```
+
+
+
+Iniciarse neste mundo tan variado como é o  [#rstats](https://twitter.com/hashtag/rstat) :heart: é unha aventura divertida e instruínte. O entorno que envolve á comunidade que existe arredor de R é moi ampla e activa. Participar nela e aprender dela é un dos retos que a educación do futuro debería absorber nos seus fundamentos, xa que existen miles de persoas usando esta linguaxe e creando novas formas de traballar cos datos e de amosalos a diversos tipos de grupos, dende un público académico ata rapaces e rapazas de instituto.
+
+
+
+
+<iframe src="https://giphy.com/embed/hXG93399r19vi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+
+<!-- `r blogdown::shortcode("tweet", "928447584712253440")` -->
+
+
+A análise de datos, ciencia de datos ou como se lle queira chamar a intentar organizar o coñecemento a través dos datos é un valor en alza na nosa sociedade e unha ferramenta moi válida para contrarrestar o actual clima informativo no que as **fake news** supoñen unha ameaza para o coñecemento da realidade obxectiva.
+
+
+Para manter unha liña editorial coherente e obxectiva farei uso do *Método científico*:
+
+1. :mag: **Observación**
+2. :question: **Hipótese**.
+3. :bar_chart: **Comprobación** 
+4. :pencil: **Conclusión** 
+
+
+
+
+Aquí comeza a miña andaina na rede. 
+
+Aquí comeza VINCULEIRO!
+
+
+
+
